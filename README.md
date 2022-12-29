@@ -19,7 +19,7 @@
 - Junit,Selenium-Java,WebdriverManager dependencies must be installed
 
 ## Test Case
-https://docs.google.com/spreadsheets/d/1dxCvkzapG54VvePWm4UTFEaCaaPuFTD1vnvF8oZ84HY/edit?usp=sharing
+- N/A
 
 ## Junit report
 - after running 
