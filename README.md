@@ -24,4 +24,4 @@ https://docs.google.com/spreadsheets/d/1dxCvkzapG54VvePWm4UTFEaCaaPuFTD1vnvF8oZ8
 ## Junit report
 - after running 
   - gradle clean test
-- go to build -> report -> index.html to view it
+- go to build -> reports -> tests -> test -> index.html to view it
